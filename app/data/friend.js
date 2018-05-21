@@ -1,6 +1,6 @@
 var friendMatch = [{
-        "name": "",
-        "photo": "https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+        "name": "Cristiane Abreu",
+        "photo": "https://pbs.twimg.com/profile_images/896196714956292096/k70QWd5M_400x400.jpg",
         "scores": [
             5,
             1,
